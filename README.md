@@ -1,8 +1,10 @@
 ## Hi, I'm Kevin! 😎
 
-I am recently finished uni at [Hong Kong Baptist University](https://www.hkbu.edu.hk/)🎓, eager to contribute to the field of data science.
+I’m a fresh graduate from [Hong Kong Baptist University](https://www.hkbu.edu.hk/) 🎓, excited to make an impact in data science.
 
-- I'm currently redesigning a trading strategy called Dollar Cost Averaging (DCA) 📈, check it out [here](https://github.com/kevinlch421/AlgoTrade----Project).
-- I recently builting a profoilo on powerbi
-- I'm looking to collaborate on Python and R projects on GitHub 🖥️
-- When I’m free, I post funny stuff on Instagram 😜
+- 📈 I'm currently redesigning the Dollar Cost Averaging (DCA) trading strategy with Python 📈, check it out [here](https://github.com/kevinlch421/AlgoTrade----Project)
+- 📊 I recently builting a professional portfolio using Power BI
+- 🖥️ I'm open to collaborating on Python and R projects on GitHub
+- 😜 When I’m free, I post funny stuff on Instagram
+
+
