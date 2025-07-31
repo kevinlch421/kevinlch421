@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Hey, I'm Kevin! 😄
+## Hi, I'm Kevin! 😄
 
 I just finished uni at Hong Kong Baptist 🎓. I used Python to tweak a trading strategy called Dollar Cost Averaging (DCA) 📈. Now, I’m looking for data science jobs! 💻
 
